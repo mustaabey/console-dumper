@@ -1,0 +1,4 @@
+*.gz
+
+node_modules
+.idea

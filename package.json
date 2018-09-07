@@ -1,0 +1,16 @@
+{
+  "name": "console-dumper",
+  "version": "1.0.3",
+  "description": "For writing to console",
+  "main": "src/console-dumper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mustafa Karahan",
+  "license": "ISC",
+  "keywords": [
+    "console",
+    "dump",
+    "dumper"
+  ]
+}
