@@ -1,8 +1,12 @@
 {
   "name": "console-dumper",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "For writing to console",
   "main": "src/console-dumper.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mustaabey/console-dumper.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
